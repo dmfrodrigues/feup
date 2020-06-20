@@ -100,7 +100,9 @@ This is an index of all my projects and repositories related to FEUP curricular 
     <tr>
         <td>MNUM</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436436">Numerical Methods</a></td>
-        <td></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-mnum-ex">Exercises</a>
+        </td>
     </tr>
     <tr>
         <td>FIS2</td>
