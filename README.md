@@ -1,5 +1,7 @@
 # FEUP
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This is an index of all my projects and repositories related to FEUP curricular units as a student.
 
 <table>
@@ -177,3 +179,9 @@ This is an index of all my projects and repositories related to FEUP curricular 
         </td>
     </tr>
 </table>
+
+## License
+
+© 2020 Diogo Rodrigues
+
+This repository is licensed under the [MIT License](LICENSE). Please notice that only covers this repository, as the linked  repositories are subject to different licenses. 
