@@ -33,7 +33,9 @@ This is an index of all my projects and repositories related to FEUP curricular 
     <tr>
         <td>FPRO</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436425">Programming Fundamentals</a></td>
-        <td></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-fpro-ex">Exercises</a>
+        </td>
     </tr>
     <tr>
         <td>MDIS</td>
