@@ -70,7 +70,9 @@ This is an index of all my projects and repositories related to FEUP curricular 
     <tr>
         <td>FISI1</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436429">Physics I</a></td>
-        <td></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-fis1-form">Equations form</a>
+        </td>
     </tr>
     <tr>
         <td>MEST</td>
