@@ -88,6 +88,7 @@ This is an index of all my projects and repositories related to FEUP curricular 
         <td>PROG</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436430">Programming</a></td>
         <td>
+            <a href="https://github.com/dmfrodrigues/feup-prog-ex">Exercises</a> | 
             <a href="https://github.com/dmfrodrigues/feup-prog-proj">Project</a>
         </td>
     </tr>
