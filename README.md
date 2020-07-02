@@ -152,16 +152,16 @@ This is an index of all my projects and repositories related to FEUP curricular 
         <td>BDAD</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436439">Databases</a></td>
         <td>
-            <a href="https://github.com/dmfrodrigues/feup-bdad-proj">Project</a> | 
-            <a href="https://github.com/dmfrodrigues/feup-bdad-ex">Exercises</a>
+            <a href="https://github.com/dmfrodrigues/feup-bdad-ex">Exercises</a> | 
+            <a href="https://github.com/dmfrodrigues/feup-bdad-proj">Project</a>
         </td>
     </tr>
     <tr>
         <td>CAL</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436441">Algorithm Design and Analysis</a></td>
         <td>
-            <a href="https://github.com/dmfrodrigues/feup-cal-proj">Project</a> | 
-            <a href="https://github.com/dmfrodrigues/feup-cal-ex">Exercises</a>
+            <a href="https://github.com/dmfrodrigues/feup-cal-ex">Exercises</a> |
+            <a href="https://github.com/dmfrodrigues/feup-cal-proj">Project</a>
         </td>
     </tr>
     <tr>
@@ -176,9 +176,9 @@ This is an index of all my projects and repositories related to FEUP curricular 
         <td>SOPE</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436440">Operating Systems</a></td>
         <td>
+            <a href="https://github.com/dmfrodrigues/feup-sope-ex">Exercises</a> |
             <a href="https://github.com/dmfrodrigues/feup-sope-proj1">Project 1</a> |
-            <a href="https://github.com/dmfrodrigues/feup-sope-proj2">Project 2</a> |
-            <a href="https://github.com/dmfrodrigues/feup-sope-ex">Exercises</a>
+            <a href="https://github.com/dmfrodrigues/feup-sope-proj2">Project 2</a>
         </td>
     </tr>
     <tr>
