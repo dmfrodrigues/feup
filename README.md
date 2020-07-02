@@ -82,7 +82,9 @@ This is an index of all my projects and repositories related to FEUP curricular 
     <tr>
         <td>MPCP</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436431">Microprocessors and Personal Computers</a></td>
-        <td></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-mpcp-ex">Exercises</a>
+        </td>
     </tr>
     <tr>
         <td>PROG</td>
