@@ -182,7 +182,8 @@ This is an index of all my projects and repositories related to FEUP curricular 
         <td>
             <a href="https://github.com/dmfrodrigues/feup-sope-ex">Exercises</a> |
             <a href="https://github.com/dmfrodrigues/feup-sope-proj1">Project 1</a> |
-            <a href="https://github.com/dmfrodrigues/feup-sope-proj2">Project 2</a>
+            <a href="https://github.com/dmfrodrigues/feup-sope-proj2">Project 2</a> |
+            <a href="https://github.com/dmfrodrigues/feup-sope-exam">Exam consulting</a>
         </td>
     </tr>
     <tr>
