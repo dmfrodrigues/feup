@@ -195,6 +195,56 @@ This is an index of all my projects and repositories related to FEUP curricular 
     </tr>
 </table>
 
+<table>
+    <tr>
+        <th colspan="3">3rd Year, 1st Semester</th>
+    </tr>
+    <tr>
+        <th>Acronym</th>
+        <th>Name</th>
+        <th>Resources</th>
+    </tr>
+    <tr>
+        <td>ESOF</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459481">Software Engineering</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-esof-proj">Project</a>
+        </td>
+    </tr>
+    <tr>
+        <td>LAIG</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459484">Graphical Applications Laboratory</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-laig-proj">Project</a>
+        </td>
+    </tr>
+    <tr>
+        <td>LTW</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459485">Web Languages and Technologies</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-ltw-ex">Exercises</a> | 
+            <a href="https://github.com/dmfrodrigues/feup-ltw-proj">Project</a>
+        </td>
+    </tr>
+    <tr>
+        <td>PLOG</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459482">Logic Programming</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-plog-ex">Exercises</a> |
+            <a href="https://github.com/dmfrodrigues/feup-plog-tp1">Project 1</a> |
+            <a href="https://github.com/dmfrodrigues/feup-plog-tp2">Project 2</a>
+        </td>
+    </tr>
+    <tr>
+        <td>RCOM</td>
+        <td><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459483">Computer Networks</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-rcom-l1">Project 1</a> |
+            <a href="https://github.com/dmfrodrigues/feup-rcom-l2">Project 2</a>
+        </td>
+    </tr>
+</table>
+
 ## License
 
 © 2020 Diogo Rodrigues
