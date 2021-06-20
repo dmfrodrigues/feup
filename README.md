@@ -245,6 +245,52 @@ This is an index of all my projects and repositories related to FEUP curricular 
     </tr>
 </table>
 
+<table>
+    <tr>
+        <th colspan="3">3rd Year, 2nd Semester</th>
+    </tr>
+    <tr>
+        <th>Acronym</th>
+        <th>Name</th>
+        <th>Resources</th>
+    </tr>
+    <tr>
+        <td>COMP</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459486">Compilers</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-comp-ex">Exercises</a> | <a href="https://github.com/dmfrodrigues/feup-comp-proj">Project</a>
+        </td>
+    </tr>
+    <tr>
+        <td>IART</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459487">Artificial Intelligence</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-iart-ex">Exercises</a> | <a href="https://github.com/dmfrodrigues/feup-iart-proj1">Project 1</a> | <a href="https://github.com/dmfrodrigues/feup-iart-proj2">Project 2</a>
+        </td>
+    </tr>
+    <tr>
+        <td>LBAW</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459490">Database and Web Applications Laboratory</a></td>
+        <td>
+            Project
+        </td>
+    </tr>
+    <tr>
+        <td>PPIN</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459488">Personal and Interpersonal Proficiency</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-ppin-proj">Project</a>
+        </td>
+    </tr>
+    <tr>
+        <td>SDIS</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459489">Distributed Systems</a></td>
+        <td>
+            <a href="https://github.com/dmfrodrigues/feup-sdis-ex">Exercises & form</a> | <a href="https://github.com/dmfrodrigues/feup-sdis-proj1">Project 1</a> | Project 2
+        </td>
+    </tr>
+</table>
+
 ## License
 
 © 2020 Diogo Rodrigues
