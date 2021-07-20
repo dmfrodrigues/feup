@@ -1,9 +1,3 @@
-# FEUP
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-This is an index of all my projects and repositories related to FEUP curricular units as a student.
-
 <table>
     <tr>
         <th colspan="3">1st Year, 1st Semester</th>
@@ -130,7 +124,7 @@ This is an index of all my projects and repositories related to FEUP curricular 
         <td>AEDA</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436433">Algorithms and Data Structures</a></td>
         <td>
-            <a href=https://github.com/dmfrodrigues/feup-aeda-ex>Exercises</a> | 
+            <a href="https://github.com/dmfrodrigues/feup-aeda-ex">Exercises</a> | 
             <a href="https://github.com/dmfrodrigues/feup-aeda-proj">Project</a>
         </td>
     </tr>
@@ -290,9 +284,3 @@ This is an index of all my projects and repositories related to FEUP curricular 
         </td>
     </tr>
 </table>
-
-## License
-
-© 2020 Diogo Rodrigues
-
-This repository is licensed under the [MIT License](LICENSE). Please notice that only covers this repository, as the linked  repositories are subject to different licenses. 
