@@ -1,13 +1,12 @@
-<table>
+<table class="uni-resources">
     <tr>
-        <th colspan="3">1st Year, 1st Semester</th>
-    </tr>
-    <tr>
+        <td></td>
         <th>Acronym</th>
         <th>Name</th>
         <th>Resources</th>
     </tr>
     <tr>
+        <th rowspan="6" class="rotate"><div>1st Year, 1st Sem.</div></th>
         <td>ALGE</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436423">Algebra</a></td>
         <td></td>
@@ -45,18 +44,8 @@
             <a href="https://github.com/dmfrodrigues/feup-pf-proj">Project</a>
         </td>
     </tr>
-</table>
-
-<table>
     <tr>
-        <th colspan="3">1st Year, 2nd Semester</th>
-    </tr>
-    <tr>
-        <th>Acronym</th>
-        <th>Name</th>
-        <th>Resources</th>
-    </tr>
-    <tr>
+        <th rowspan="5" class="rotate"><div>1st Year, 2nd Sem.</div></th>
         <td>CMAT</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436428">Complements of Mathematics</a></td>
         <td></td>
@@ -75,7 +64,7 @@
     </tr>
     <tr>
         <td>MPCP</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436431">Microprocessors and Personal Computers</a></td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436431">Microprocessors and PCs</a></td>
         <td>
             <a href="https://github.com/dmfrodrigues/feup-mpcp-ex">Exercises</a>
         </td>
@@ -88,18 +77,8 @@
             <a href="https://github.com/dmfrodrigues/feup-prog-proj">Project</a>
         </td>
     </tr>
-</table>
-
-<table>
     <tr>
-        <th colspan="3">2nd Year, 1st Semester</th>
-    </tr>
-    <tr>
-        <th>Acronym</th>
-        <th>Name</th>
-        <th>Resources</th>
-    </tr>
-    <tr>
+        <th rowspan="5" class="rotate"><div>2nd Year, 1st Sem.</div></th>
         <td>TCOM</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436437">Computing Theory</a></td>
         <td>
@@ -135,18 +114,8 @@
             <a href="https://github.com/dmfrodrigues/feup-lcom">Exercises and project</a>
         </td>
     </tr>
-</table>
-
-<table>
     <tr>
-        <th colspan="3">2nd Year, 2nd Semester</th>
-    </tr>
-    <tr>
-        <th>Acronym</th>
-        <th>Name</th>
-        <th>Resources</th>
-    </tr>
-    <tr>
+        <th rowspan="5" class="rotate"><div>2nd Year, 2nd Sem.</div></th>
         <td>BDAD</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436439">Databases</a></td>
         <td>
@@ -187,18 +156,8 @@
             <a href="https://github.com/dmfrodrigues/feup-lpoo-ex">Exercises</a>
         </td>
     </tr>
-</table>
-
-<table>
     <tr>
-        <th colspan="3">3rd Year, 1st Semester</th>
-    </tr>
-    <tr>
-        <th>Acronym</th>
-        <th>Name</th>
-        <th>Resources</th>
-    </tr>
-    <tr>
+        <th rowspan="5" class="rotate"><div>3rd Year, 1st Sem.</div></th>
         <td>ESOF</td>
         <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459481">Software Engineering</a></td>
         <td>
@@ -237,18 +196,8 @@
             <a href="https://github.com/dmfrodrigues/feup-rcom-l2">Project 2</a>
         </td>
     </tr>
-</table>
-
-<table>
     <tr>
-        <th colspan="3">3rd Year, 2nd Semester</th>
-    </tr>
-    <tr>
-        <th>Acronym</th>
-        <th>Name</th>
-        <th>Resources</th>
-    </tr>
-    <tr>
+        <th rowspan="5" class="rotate"><div>3rd Year, 2nd Sem.</div></th>
         <td>COMP</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459486">Compilers</a></td>
         <td>
@@ -264,7 +213,7 @@
     </tr>
     <tr>
         <td>LBAW</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459490">Database and Web Applications Laboratory</a></td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459490">Database and Web Apps Lab</a></td>
         <td>
             Project
         </td>
