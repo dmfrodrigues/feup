@@ -229,7 +229,7 @@
         <td>SDIS</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459489">Distributed Systems</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sdis-ex">✔️</a></td>
-        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sdis-proj1">#1</a>, #2 ❌)</td>
+        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sdis-proj1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-sdis-proj2">#2</a>)</td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sdis-form">✔️</a></td>
     </tr>
 </table>
