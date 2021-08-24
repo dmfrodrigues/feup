@@ -1,14 +1,14 @@
 <table class="uni-resources">
     <tr>
         <td rowspan="2"></td>
-        <th rowspan="2">Acronym</th>
-        <th rowspan="2">Name</th>
-        <th colspan="3">Resources</th>
+        <th style="text-align:center" rowspan="2">Acronym</th>
+        <th style="text-align:center" rowspan="2">Name</th>
+        <th style="text-align:center" colspan="3">Resources</th>
     </tr>
     <tr>
-        <th>Exercises</th>
-        <th>Projects</th>
-        <th>Forms</th>
+        <th style="text-align:center">Exercises</th>
+        <th style="text-align:center">Projects</th>
+        <th style="text-align:center">Forms</th>
     </tr>
     <tr>
         <th rowspan="6" class="rotate"><div>1st Year, 1st Sem.</div></th>
