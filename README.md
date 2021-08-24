@@ -215,7 +215,7 @@
         <td>LBAW</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459490">Database and Web Apps Lab</a></td>
         <td style="text-align:center"></td>
-        <td style="text-align:center">❌</td>
+        <td style="text-align:center"> <a href="https://github.com/dmfrodrigues/feup-lbaw-proj">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
