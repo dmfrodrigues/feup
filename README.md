@@ -137,7 +137,7 @@
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436441">Algorithm Design and Analysis</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-ex">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-proj">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-exam">✔️</a></td>
     </tr>
     <tr>
         <td>CGRA</td>
@@ -157,14 +157,14 @@
         <td>LPOO</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436442">Object Oriented Programming Laboratory</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lpoo-ex">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lpoo-proj">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
         <th rowspan="5" class="rotate"><div>3rd Year, 1st Sem.</div></th>
         <td>ESOF</td>
         <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459481">Software Engineering</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-esof-ex">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-esof-proj">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
@@ -192,7 +192,7 @@
     <tr>
         <td>RCOM</td>
         <td><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459483">Computer Networks</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-rcom-ex">✔️</a></td>
         <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-rcom-l1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-rcom-l2">#2</a>)</td>
         <td style="text-align:center"></td>
     </tr>
@@ -228,7 +228,7 @@
     <tr>
         <td>SDIS</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459489">Distributed Systems</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sdis-ex">✔️</a></td>
+        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sdis-tp">TP</a>, <a href="https://github.com/dmfrodrigues/feup-sdis-ex">Ex</a>)</td>
         <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sdis-proj1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-sdis-proj2">#2</a>)</td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sdis-form">✔️</a></td>
     </tr>
