@@ -1,6 +1,6 @@
 <table class="uni-resources">
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2" colspan="3"></td>
         <th style="text-align:center" rowspan="2">Acronym</th>
         <th style="text-align:center" rowspan="2">Name</th>
         <th style="text-align:center" colspan="3">Resources</th>
@@ -11,7 +11,9 @@
         <th style="text-align:center">Forms</th>
     </tr>
     <tr>
-        <th rowspan="6" class="rotate"><div>1st Year, 1st Sem.</div></th>
+        <th rowspan="31" class="rotate"><div>Bachelor</div></th>
+        <th rowspan="11" class="rotate"><div>1st Year</div></th>
+        <th rowspan="6" class="rotate"><div>1st Semester</div></th>
         <td>ALGE</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436423">Algebra</a></td>
         <td style="text-align:center"></td>
@@ -54,7 +56,7 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <th rowspan="5" class="rotate"><div>1st Year, 2nd Sem.</div></th>
+        <th rowspan="5" class="rotate"><div>2nd Semester</div></th>
         <td>CMAT</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436428">Complements of Mathematics</a></td>
         <td style="text-align:center"></td>
@@ -90,7 +92,8 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <th rowspan="5" class="rotate"><div>2nd Year, 1st Sem.</div></th>
+        <th rowspan="10" class="rotate"><div>2nd Year</div></th>
+        <th rowspan="5" class="rotate"><div>1st Semester</div></th>
         <td>TCOM</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436437">Computing Theory</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-tcom-ex">✔️</a></td>
@@ -125,7 +128,7 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <th rowspan="5" class="rotate"><div>2nd Year, 2nd Sem.</div></th>
+        <th rowspan="5" class="rotate"><div>2nd Semester</div></th>
         <td>BDAD</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436439">Databases</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-bdad-ex">✔️</a></td>
@@ -161,7 +164,8 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <th rowspan="5" class="rotate"><div>3rd Year, 1st Sem.</div></th>
+        <th rowspan="10" class="rotate"><div>3rd Year</div></th>
+        <th rowspan="5" class="rotate"><div>1st Semester</div></th>
         <td>ESOF</td>
         <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459481">Software Engineering</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-esof-ex">✔️</a></td>
@@ -197,7 +201,7 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <th rowspan="5" class="rotate"><div>3rd Year, 2nd Sem.</div></th>
+        <th rowspan="5" class="rotate"><div>2nd Semester</div></th>
         <td>COMP</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459486">Compilers</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-comp-ex">✔️</a></td>
@@ -231,5 +235,79 @@
         <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sdis-tp">TP</a>, <a href="https://github.com/dmfrodrigues/feup-sdis-ex">Ex</a>)</td>
         <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sdis-proj1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-sdis-proj2">#2</a>)</td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sdis-form">✔️</a></td>
+    </tr>
+    <tr>
+        <th rowspan="10" class="rotate"><div>Master</div></th>
+        <th rowspan="10" class="rotate"><div>1st Year</div></th>
+        <th rowspan="5" class="rotate"><div>1st Semester</div></th>
+        <td>AC</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=486242">Machine Learning</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-ac-proj">✔️</a></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>DS</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486243">Large Scale Software Development</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>FSI</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484431">Computer Security Foundations</a></td>
+        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-fsi-tp">✔️</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>PRI</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486244">Information Processing and Retrieval</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-pri-proj">✔️</a></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>SDLE</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486245">Large Scale Distributed Systems</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <th rowspan="5" class="rotate"><div>2nd Semester</div></th>
+        <td>EDAA</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=486254">Advanced Data Structures and Algorithms</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/Educorreia932/FEUP-EDAA">✔️</a></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>LGP</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486247">Project Management Laboratory</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://radiobot.zerozero.pt">✔️</a></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>O</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486260">Optimization</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/up201806330/Course-Scheduling-Optimization">✔️</a></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>SSI</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486264">Computer Systems Security</a></td>
+        <td style="text-align:center"><a href="https://github.com/2dukes/PROJ_SSI_2122">✔️</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>SETR</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486266">Embedded and Real Time Systems</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
     </tr>
 </table>
