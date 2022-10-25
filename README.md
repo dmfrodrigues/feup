@@ -307,7 +307,7 @@
         <td>SETR</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486266">Embedded and Real Time Systems</a></td>
         <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/up201806330/Ambilight-Clone">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
 </table>
