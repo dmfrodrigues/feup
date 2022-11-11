@@ -212,7 +212,7 @@
         <td>IART</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459487">Artificial Intelligence</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-iart-ex">✔️</a></td>
-        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-iart-proj1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-iart-proj2">#2</a>)</td>
+        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-iart-proj1">#1</a>, <a href="https://github.com/up201806330/Ball-Sort-Puzzle-RL">#2</a>)</td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
